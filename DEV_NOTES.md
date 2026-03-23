@@ -25,3 +25,6 @@ Personal development log — notes, findings, and ongoing work.
 - Ran linter, applied auto-fixes
 - Documented config options
 - Consolidated duplicate helper functions
+
+## 2026-03-23
+- Added CONTRIBUTING.md stub
