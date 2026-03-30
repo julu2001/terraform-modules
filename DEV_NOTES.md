@@ -28,3 +28,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-03-23
 - Added CONTRIBUTING.md stub
+
+## 2026-03-30
+- Investigated performance bottleneck, noted findings
+- Reviewed open issues, added labels
+- Added inline documentation for core functions
